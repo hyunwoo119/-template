@@ -53,7 +53,7 @@ async function predict() {
 
     const data = {
       notsleeping: '열심히 공부중이시군요?',
-      sleeping: '자고있군요?',
+      sleeping: '자지 마세요',
       anotherbusiness: '어디 계세요?',
     };
 
